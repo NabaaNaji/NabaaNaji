@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NabaaNaji
 - 👀 I’m interested in EVERYTHING!
-- 🌱 I’m currently learning Python, C, HTML, JAVA
+- 🌱 I’m currently learning Python, C, JAVA, HTML, CSS, SQL ... and much more!
 - 💞️ I’m looking to collaborate on something cool hehe :)
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
